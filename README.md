@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm CodeByArnob</h1>
+<h3 align="center">🚀 Flutter Developer | Building Modern Apps & Open Source Projects</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
+
+---
+
+### 🌟 **About Me**
+- 💻 Passionate **Flutter & Android Developer** building modern cross-platform applications.
+- 📱 Developing beautiful and high-performance applications using **Flutter & Dart**.
+- 🚀 Building innovative **Open Source Projects** and developer tools.
+- 🤖 Exploring **AI-powered applications, Local AI, and intelligent automation**.
+- 🎨 Passionate about **UI/UX Design, modern animations, and premium interfaces**.
+- 🔒 Focused on **Offline-First, Privacy-Focused, and Local-First Applications**.
+- 🔥 Always learning and turning creative ideas into real-world software.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Arnobrazz.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arnobrazz.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnob-razz-0ba6a6207) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@arnobrazzdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Arnobrazz_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnobrazz.dev@gmail.com) 
