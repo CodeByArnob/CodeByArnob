@@ -30,5 +30,13 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 ---
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arnobrazzdv) 
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=CodeByArnob&theme=dark&hide_border=true&count_private=false" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeByArnob&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+## Support
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/arnobrazzdv)
